@@ -1,2 +1,2 @@
 # aeronautical
-Ferramentas para uso aeronáltico
+Ferramentas para uso aeronáutico
